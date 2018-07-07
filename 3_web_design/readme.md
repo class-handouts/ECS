@@ -1,5 +1,0 @@
-## Exploring Computer Science Unit 1 - Human Computer Interaction
-
-In this unit students are introduced to the concepts of computer and computing while investigating the major components of computers and the suitability of these components for particular applications. Students will experiment with internet search techniques, explore a variety of websites and web applications and discuss issues of privacy and security. Fundamental notions of Human Computer Interaction (HCI) and ergonomics are introduced. Students will learn that “intelligent” machine behavior is not “magic” but is based on algorithms applied to useful representations of information, including large data sets. Students will learn the characteristics that make certain tasks easy or difficult for computers, and how these differ from those that humans characteristically find easy or difficult. Students will gain an appreciation for the many ways in which computing-enabled innovation have had an impact on society, as well as for the many different fields in which they are used. Connections among social, economical and cultural contexts will be discussed.
-
-* 
