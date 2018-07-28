@@ -8,5 +8,4 @@ Welcome to Exploring Computer Science. Here you will find all the handouts you w
 * [Unit 3 Handouts](./03_Web_Design/readme.md): Web Design.
 * [Unit 4 Handouts](./04_Command_Line_Interface/readme.md): Command Line Interface.
 * [Unit 5 Handouts](./05_Programming/readme.md): Programming.
-* [Unit 6 Handouts](./06_Computing_and_Data_Analysis/readme.md): Computing & Data Annlysis.
-* [Unit 7 Handouts](./07_Robotics/readme.md): Robotics.
+* [Unit 6 Handouts](./06_Robotics/readme.md): Robotics.
