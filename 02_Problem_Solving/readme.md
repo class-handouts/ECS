@@ -7,7 +7,6 @@ This unit provides students with opportunities to become “computational thinke
 
 **Number Systems:**
 * [Binary_Numbers_Activity.pdf](./Binary_Numbers_Activity.pdf): Worksheet Activity: Binary Numbers.
-* [Number_Systems_Puzzle.pdf](./Number_Systems_Puzzle.pdf): A Number System Jigsaw Puzzle.
 
 **Searching Algorithms**
 * [Binary_Search.pdf](./Binary_Search.pdf): The Binary Search Handout.
