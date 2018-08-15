@@ -1,6 +1,6 @@
 ## Exploring Computer Science - Student Handouts
 
-Welcome to Exploring Computer Science. Here you will find all the handouts you will need. This class is a high school introduction to the world of computer science and problem solving. Here is the [class syllabus](./syllibus_ecs.pdf). If you need to contact me, please send an email to <cdagler@egusd.net> or leave a message at (916) 714-8150.
+Welcome to Exploring Computer Science. Here you will find all the handouts you will need. This class is a high school introduction to the world of computer science and problem solving. Here is the [class syllabus](./syllabus_ecs.pdf). If you need to contact me, please send an email to <cdagler@egusd.net> or leave a message at (916) 714-8150.
 
 **Handouts by Units:**
 * [Unit 1 Handouts](./01_Humman_Computer_Interaction/readme.md): Human Computer Interaction.
