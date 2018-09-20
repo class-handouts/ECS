@@ -7,29 +7,29 @@ This section prepares students to take the role of a developer by expanding thei
 * [Storyboard_Handout.pdf](./Storyboard_Handout.pdf) A Storyboard for your Website.
 
 **Intro to HTML**
-* [hi_class-html.pdf](./hi_class-html.pdf) The only teacher example for this section.
+* [hi_class.html](./hi_class-html.pdf) The only teacher example for this section.
 * [w3schools HTML Home](https://www.w3schools.com/html/default.asp) Read and take notes on _HTML Home_ through _HTML Basic_.
-* [bad01-html.pdf](./bad01-html.pdf) Fix all of the errors and formatting.
+* [bad01.html](./bad01-html.pdf) Fix all of the errors and formatting.
 
 **Images and HTML**
 * [The Smart Shiba's Guide to Images for the Web](https://youtu.be/I7F4GMo5e_Y) A Sac-JS talk that I went to by Jessica Parsons.
-* [hi_image.pdf](./hi_image.pdf) The teacher example: _hi_image.html_.
+* [hi_image.html](./hi_image.pdf) The teacher example: _hi_image.html_.
 * [linux.jpg](./linux.jpg) Needed for _hi_image.html_.
 * [w3schools HTML Elements](https://www.w3schools.com/html/html_elements.asp) Read and take notes on HTML Elements through HTML Colors.
-* [bad02-html.pdf](./bad02-html.pdf) Fix all of the errors and formatting.
+* [bad02.html](./bad02-html.pdf) Fix all of the errors and formatting.
 * [java-logo.jpg](./java-logo.jpg) Needed for _bad02.html_.
 
 **Intro to CSS**
-* [hi_ecs-html.pdf](./hi_ecs-html.pdf) The frist example for this section.
-* [cs-html.pdf](./csV1-html.pdf) A final example this section.
-* [my_style-css.pdf](./my_styleV1-css.pdf) The _CSS_ file for _cs.html_.
+* [hi_ecs.html](./hi_ecs-html.pdf) The frist example for this section.
+* [cs.html](./csV1-html.pdf) A final example this section.
+* [my_style.css](./my_styleV1-css.pdf) The _CSS_ file for _cs.html_.
 * [chalkboard-background.jpg](./chalkboard-background.jpg) Needed for the last two teacher examples.
 * [w3schools HTML CSS](https://www.w3schools.com/html/html_css.asp) Read and take notes on HTML CSS.
-* [bad03-html.pdf](./bad03-html.pdf) Fix all of the errors and formatting.
+* [bad03.html](./bad03-html.pdf) Fix all of the errors and formatting.
 
 **Links, Lists, and Tables**
-* [cs-html.pdf](./csV2-html.pdf) A final example this section.
-* [my_style-css.pdf](./my_styleV2-css.pdf) A final example this section.
+* [cs.html](./csV2.html) A final example this section.
+* [my_style.css](./my_styleV2-css.pdf) A final example this section.
 * [other_lang-html.pdf](./other_lang-html.pdf) A final example this section.
 * [w3schools HTML Links](https://www.w3schools.com/html/html_links.asp) Read and take notes on HTML HTML Links throgh HTML Lists.
 
