@@ -8,3 +8,4 @@ This unit provides students with opportunities to become proficient with the bas
 
 **More CLI**
 * [Codecademy CLI](https://www.codecademy.com/learn/learn-the-command-line): Read and takes notes up to the clear command.
+* [Terminus](http://www.mprat.org/Terminus/): A CLI game by MIT
