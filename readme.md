@@ -9,3 +9,6 @@ Welcome to Exploring Computer Science. Here you will find all the handouts you w
 * [Unit 4 Handouts](./04_Command_Line_Interface/readme.md): Command Line Interface.
 * [Unit 5 Handouts](./05_Programming/readme.md): Programming.
 * [Unit 6 Handouts](./06_Robotics/readme.md): Robotics.
+
+**Other Handouts:**
+* [Seeting Up Bash](./ecs_wsl_install.md): The Steps you need to Set Up the *WSL*.
