@@ -38,8 +38,8 @@ _Note: You can copy and past commands on steps 2 and 3._
 |:----:|-----------------------------------------------|-------------------------------|
 | 1    | Left Click on [Start]                         |                               |
 | 2    | Click on [Windows PowerShell]                 |                               |
-| 3    | lxrun /uninstall /full                        | Type this in and hit [Enter]  |
-| 4    | lxrun /install                                | Type this in and hit [Enter]  |
+| 3    | lxrun /uninstall /full                        | Type this in and hit [Enter]<br /> Enter _y_ when it asks you to |
+| 4    | lxrun /install                                | Type this in and hit [Enter]<br /> Enter _y_ when it asks you to |
 | 5    | Type _student_ for username and hit [Enter]   |                               |
 | 6    | Type _ict_ for password and hit [Enter]       | Nothing will show as you type |
 | 7    | Retype _ict_ for password and hit [Enter]     | Nothing will show as you type |

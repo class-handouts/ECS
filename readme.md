@@ -11,4 +11,4 @@ Welcome to Exploring Computer Science. Here you will find all the handouts you w
 * [Unit 6 Handouts](./06_Robotics/readme.md): Robotics.
 
 **Other Handouts:**
-* [Seeting Up Bash](./ecs_wsl_install.md): The Steps you need to Set Up the *WSL*.
+* [Bash (_WSL_) Setup](./ecs_wsl_install.md): The Steps you need to Set Up the *WSL*.
