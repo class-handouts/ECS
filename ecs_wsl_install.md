@@ -28,7 +28,7 @@ _Note: You can copy and past all of these commands._
 | 1    | sudo apt-get update                  | Type this in and hit [Enter]<br />Type your password _ict_ and hit [Enter]  |
 | 2    | sudo apt-get upgrade                 | Type this in and hit [Enter]<br />Hit [Enter] when it asks: _Do you want to continue? [Y/n]_  |
 | 3    | sudo apt-get install build-essential | Type this in and hit [Enter]<br />Hit [Enter] when it asks: _Do you want to continue? [Y/n]_  |
-
+| 1    | sudo apt-get install gcc             | Type this in and hit [Enter]<br />Hit [Enter] if it asks: _Do you want to continue? [Y/n]_          |
 
 ### Reinstalling _WSL_ because it does not work:
 
