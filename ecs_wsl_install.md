@@ -28,7 +28,19 @@ _Note: You can copy and past all of these commands._
 | 1    | sudo apt-get update                  | Type this in and hit [Enter]<br />Type your password _ict_ and hit [Enter]  |
 | 2    | sudo apt-get upgrade                 | Type this in and hit [Enter]<br />Hit [Enter] when it asks: _Do you want to continue? [Y/n]_  |
 | 3    | sudo apt-get install build-essential | Type this in and hit [Enter]<br />Hit [Enter] when it asks: _Do you want to continue? [Y/n]_  |
-| 1    | sudo apt-get install gcc             | Type this in and hit [Enter]<br />Hit [Enter] if it asks: _Do you want to continue? [Y/n]_          |
+| 4    | sudo apt-get install gcc             | Type this in and hit [Enter]<br />Hit [Enter] if it asks: _Do you want to continue? [Y/n]_          |
+
+### Setting up some Path Variables.
+
+_Note: You can copy and past all of these commands._
+
+| Step | Commands                         |  Notes                               |
+|:----:|----------------------------------|--------------------------------------|
+| 1    | cd ~                             | Type this up and hit [Enter]  |
+| 2    | cp .bashrc .bashrc.old           | Type this up and hit [Enter]  |
+| 3    | mkdir /mnt/c/Users/YOUR_ID_NUMBER/Documents/ECS | Replace YOUR_ID_NUMBER with your ID Number and hit [Enter] <br /> This command needs to be a single line|
+| 4    | echo "alias cd2apcs_a='cd /mnt/c/Users/YOUR_ID_NUMBER/Documents/ECS'" >> .bashrc | Replace YOUR_ID_NUMBER with your ID Number and hit [Enter] <br /> This command needs to be a single line |
+| 5    | echo "PS1='\u: '" >> .bashrc | Type this up and hit [Enter]  |
 
 ### Reinstalling _WSL_ because it does not work:
 
