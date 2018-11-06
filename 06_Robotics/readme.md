@@ -1,4 +1,4 @@
-## Exploring Computer Science Unit 3 - Robotics
+## Exploring Computer Science Unit 6 - Robotics
 
 This unit introduces robotics as an advanced application of computer science that can be used to solve problems in a variety of settings from business to healthcare and how robotics enables innovation by automating processes that may be dangerous or otherwise problematic for humans. Students explore how to integrate hardware and software in order to solve problems. Students will see the effect of software and hardware design on the resulting product. Students will apply previously learned topics to the study of robotics.
 
@@ -6,7 +6,7 @@ This unit introduces robotics as an advanced application of computer science tha
 * _No Handouts for this Section Yet._
 
 **ChIDE and Move**
-* [drive1.ch](./drive1.pdf) Our Frist Linkbot Program.
+* [drive1.ch](./drive1.pdf) Our First Linkbot Program.
 
 **Set Speed Drive Time**
 * _No Handouts for this Section Yet._
@@ -35,7 +35,7 @@ This unit introduces robotics as an advanced application of computer science tha
 * [Connected Linkbots Folder](./connected_linkbots.zip) Several Connected Linkbot Examples with Videos and other Documentation.
 
 **Video Project**
-* [class_video_rubric.pdf](./class_video_rubric.pdf) How your Video will be Graded Durning Each Check.
+* [class_video_rubric.pdf](./class_video_rubric.pdf) How your Video will be Graded During Each Check.
 * [2018RoboPlayVideoRubric.pdf](./2018RoboPlayVideoRubric.pdf) The Rubric the Judges Used in 2018
 
 **Drive Distance and Turn**

@@ -1,9 +1,9 @@
 ## Exploring Computer Science Unit 3 - Web Design
 
-This section prepares students to take the role of a developer by expanding their knowledge of algorithms, abstraction, and web page design and applying it to the creation of web pages and documentation for users and equipment. Students will explore issues of social responsibility in web use. They will learn to plan and code their web pages using a variety of techniques and check their sites for usability. Students learn to create user-friendly websites. Students will apply fundamental notions of Human Computer Interaction (HCI) and ergonomics.
+This section prepares students to take the role of a developer by expanding their knowledge of algorithms, abstraction, and web page design, and applying it to the creation of web pages and documentation for users and equipment. Students will explore issues of social responsibility in web use. They will learn to plan and code their web pages using a variety of techniques and check their sites for usability. Students learn to create user-friendly websites. Students will apply fundamental notions of Human Computer Interaction (HCI) and ergonomics.
 
 **Creating a Storyboard**
-* [Rebric_for_Website.pdf](./Rebric_for_Website.pdf) A Rebric for Different Websites.
+* [Rubric_for_Website.pdf](./Rubric_for_Website.pdf) A Rubric for Different Websites.
 * [Storyboard_Handout.pdf](./Storyboard_Handout.pdf) A Storyboard for your Website.
 
 **Intro to HTML**
@@ -15,7 +15,7 @@ This section prepares students to take the role of a developer by expanding thei
 * [The Smart Shiba's Guide to Images for the Web](https://youtu.be/I7F4GMo5e_Y) A Sac-JS talk that I went to by Jessica Parsons.
 * [hi_image.html](./hi_image.pdf) The teacher example: _hi_image.html_.
 * [linux.jpg](./linux.jpg) Needed for _hi_image.html_.
-* [w3schools HTML Elements](https://www.w3schools.com/html/html_elements.asp) Read and take notes on HTML Elements through HTML Colors.
+* [w3schools HTML Elements](https://www.w3schools.com/html/html_elements.asp) Read and take notes on _HTML Elements_ through _HTML Colors_.
 * [bad02.html](./bad02-html.pdf) Fix all of the errors and formatting.
 * [java-logo.jpg](./java-logo.jpg) Needed for _bad02.html_.
 
@@ -24,14 +24,14 @@ This section prepares students to take the role of a developer by expanding thei
 * [cs.html](./csV1-html.pdf) A final example this section.
 * [my_style.css](./my_styleV1-css.pdf) The _CSS_ file for _cs.html_.
 * [chalkboard-background.jpg](./chalkboard-background.jpg) Needed for the last two teacher examples.
-* [w3schools HTML CSS](https://www.w3schools.com/html/html_css.asp) Read and take notes on HTML CSS.
+* [w3schools HTML CSS](https://www.w3schools.com/html/html_css.asp) Read and take notes on _HTML CSS_.
 * [bad03.html](./bad03-html.pdf) Fix all of the errors and formatting.
 
 **Links, Lists, and Tables**
 * [cs.html](./csV2.html) A final example this section.
 * [my_style.css](./my_styleV2-css.pdf) A final example this section.
 * [other_lang-html.pdf](./other_lang-html.pdf) A final example this section.
-* [w3schools HTML Links](https://www.w3schools.com/html/html_links.asp) Read and take notes on HTML HTML Links throgh HTML Lists.
+* [w3schools HTML Links](https://www.w3schools.com/html/html_links.asp) Read and take notes on _HTML HTML Links_ through _HTML Lists_.
 
 **Summative Project**
 * [rubric.pdf](./rubric.pdf) How your website will be graded.
