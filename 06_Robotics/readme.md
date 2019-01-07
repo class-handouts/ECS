@@ -36,7 +36,8 @@ This unit introduces robotics as an advanced application of computer science tha
 
 **Video Project**
 * [class_video_rubric.pdf](./class_video_rubric.pdf) How your Video will be Graded During Each Check.
-* [2018RoboPlayVideoRubric.pdf](./2018RoboPlayVideoRubric.pdf) The Rubric the Judges Used in 2018
+* [2018_roboplay_video_rubric.pdf](./2018_roboplay_video_rubric.pdf) The Rubric the Judges Used in 2018
+* [Standard Parts](./standard_parts.zip) The standard linkbot parts in STL format.
 
 **Drive Distance and Turn**
 * [drive2.ch](./drive2.pdf) To Help with a Problem the Students will Try.
