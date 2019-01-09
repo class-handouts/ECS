@@ -12,3 +12,4 @@ Welcome to Exploring Computer Science. Here you will find all the handouts you w
 
 **Other Handouts:**
 * [Bash (_WSL_) Setup](./ecs_wsl_install.md): The Steps you need to Set Up the *WSL*.
+* [ch.lic](./ch.lic)
