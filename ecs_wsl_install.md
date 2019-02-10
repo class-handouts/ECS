@@ -29,6 +29,7 @@ _Note: You can copy and past all of these commands._
 | 2    | sudo apt-get upgrade                 | Type this in and hit [Enter]<br />Hit [Enter] when it asks: _Do you want to continue? [Y/n]_  |
 | 3    | sudo apt-get install build-essential | Type this in and hit [Enter]<br />Hit [Enter] when it asks: _Do you want to continue? [Y/n]_  |
 | 4    | sudo apt-get install gcc             | Type this in and hit [Enter]<br />Hit [Enter] if it asks: _Do you want to continue? [Y/n]_          |
+| 5    | sudo apt-get install gdb             | Type this in and hit [Enter]<br />Hit [Enter] if it asks: _Do you want to continue? [Y/n]_  
 
 ### Setting up some Path Variables.
 
